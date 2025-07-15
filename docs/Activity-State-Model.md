@@ -2,13 +2,13 @@
 
 _A structured symbolic model for logging cognitive or process-based phases, independent of time or external demands._
 
-_Last updated: 2025-07-03_
+_Last updated: 2025-07-15_
 
 ---
 
 | **State**                        | **Description**                                                                 | **Possible Label(s)**                          |
 |----------------------------------|----------------------------------------------------------------------------------|------------------------------------------------|
-| 🕳️ *Undefined / Threshold*        | `PLACEHOLDER`: Pre-impulse phase. A still, unknown, or edge-like space before anything surfaces. | `PLACEHOLDER` / `PLACEHOLDER` / `Edge`          |
+| 🕳️ *Undefined / Threshold*        | `Activation Threshold`: Pre-impulse phase. A still, unknown, or edge-like space before anything surfaces. | `Signal Precursor` / `Liminal Impulse` / `Edge`          |
 | 🌱 *Emergent / Seeding*           | Impulses surface, exploration begins, ideas arrive.                              | `Divergent` / `Divergent Spiral`                |
 | 🌊 *Expanding / Creative Flow*    | Actively exploring with patterns forming, but not yet structured.                | `Divergence-Oriented`                          |
 | ⚖️ *Transitional / Balancing*     | A middle mode — balancing between exploration and consolidation, sensing the shift or holding both. | `Oscillating` / `Edge-State`                   |
@@ -20,4 +20,4 @@ _Last updated: 2025-07-03_
 
 **Usage Tip:**  
 Each journal entry can be tagged with the most fitting state label or symbol.  
-Entries may shift states mid-phase — tag updates are welcome.  
+Entries may shift states mid-phase — tag updates are welcome.

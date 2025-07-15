@@ -48,7 +48,8 @@ The result is a system that respects real rhythms and promotes long-term interpr
 ## 🧪 Current Status
 
 > 🌱 Seeded: 2025-07-03 at 23:59:59 UTC  
-> 🌐 Surfaced: 2025-07-15
+> 🌐 Surfaced: 2025-07-15  
+> 🌌 Public release: 2025-07-17
 
 This project is now **at the activation threshold**. It began as a private seed and will be offered as a living structure — open to observation, reflection, or adaptation. The structure is evolving as clarity emerges.  
 Future updates may include:
